@@ -7,4 +7,7 @@ day to night to morning
 
 
 
-fucke me 
+<<<<<<< HEAD
+fucke me
+fuck
+>>>>>>> fuck_me
